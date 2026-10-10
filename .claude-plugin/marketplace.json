@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"口播剪辑专家：一句话把口播素材剪成爆款短视频（转录→EDL→渲染→字幕/封面→自检）+ 口播脚本子命令（钩子/分镜/提词器）","name":"lhg-video-edit","source":"./"}]}

@@ -1,0 +1,34 @@
+{
+  "source": "raw.mp4",
+  "source_duration_sec": 300,
+  "target_sec": 60,
+  "segments": [
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "action": "keep",
+      "text": "大家好我是老王",
+      "fade_ms": 30
+    },
+    {
+      "start": 12.0,
+      "end": 14.5,
+      "action": "cut",
+      "reason": "口头禅"
+    },
+    {
+      "start": 14.5,
+      "end": 20.0,
+      "action": "keep",
+      "text": "三个剪辑技巧",
+      "fade_ms": 30
+    },
+    {
+      "start": 20.0,
+      "end": 45.0,
+      "action": "keep",
+      "text": "招式一前三秒说结论",
+      "fade_ms": 30
+    }
+  ]
+}

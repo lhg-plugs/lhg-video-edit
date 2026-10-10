@@ -1,0 +1,39 @@
+{
+  "source": "raw.mp4",
+  "source_duration_sec": 300,
+  "target_sec": 60,
+  "segments": [
+    {
+      "start": 5.0,
+      "end": 12.0,
+      "action": "keep",
+      "text": "大家好我是老王",
+      "fade_ms": 30
+    },
+    {
+      "start": 10.0,
+      "end": 20.0,
+      "action": "keep",
+      "text": "那个那个一定要记住"
+    },
+    {
+      "start": 25.0,
+      "end": 25.0,
+      "action": "cut",
+      "reason": "气口"
+    },
+    {
+      "start": 40.0,
+      "end": 320.0,
+      "action": "keep",
+      "text": "超出素材"
+    },
+    {
+      "start": 30.0,
+      "end": 35.0,
+      "action": "keep",
+      "audio": "silence",
+      "text": ""
+    }
+  ]
+}
